@@ -1,0 +1,5 @@
+{
+  "name": "Nix 1 AI Assistant",
+  "description": "A multi-modal AI assistant powered by Gemini. Generate text, code, images, and spoken responses.",
+  "requestFramePermissions": []
+}
